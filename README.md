@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently learning IT/ Sometimes it's difficult for me, but I really try!🤔😄
 
 <!--
 **LadaTokareva/LadaTokareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
